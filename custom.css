@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 15px;
+}
+
+.old {
+    text-decoration: line-through !important;
+    color: #888 !important;
+    /* Thêm màu sắc cho giá cũ nếu cần */
+}
